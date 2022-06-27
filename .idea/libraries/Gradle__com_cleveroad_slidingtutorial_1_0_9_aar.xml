@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cleveroad:slidingtutorial:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2545a12d70dd792a38db736b46b49c9/jetified-slidingtutorial-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2545a12d70dd792a38db736b46b49c9/jetified-slidingtutorial-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2545a12d70dd792a38db736b46b49c9/jetified-slidingtutorial-1.0.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/730255a7a240ccc6c1268429e4577a3d/jetified-slidingtutorial-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/730255a7a240ccc6c1268429e4577a3d/jetified-slidingtutorial-1.0.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/730255a7a240ccc6c1268429e4577a3d/jetified-slidingtutorial-1.0.9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cleveroad/slidingtutorial/1.0.9/3cecfebe69eb8371944219c764c946d00fedd2ca/slidingtutorial-1.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cleveroad/slidingtutorial/1.0.9/d9ecb8486ca2577761e08e9122cd1db501c84bb7/slidingtutorial-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

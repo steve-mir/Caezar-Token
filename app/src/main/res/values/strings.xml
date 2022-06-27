@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Caezar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_web_ceo">Web CEO</string>
+    <string name="text_web_dev">Text web dev</string>
+    <string name="text_e_commerce">E-Commerce</string>
+    <string name="home">Explore</string>
+    <string name="fav">Favourite</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+</resources>

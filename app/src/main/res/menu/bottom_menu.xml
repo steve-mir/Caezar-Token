@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="Home"
+        app:cnb_iconColor="@color/explore"/>
+    <item
+        android:id="@+id/nft"
+        android:icon="@drawable/nft"
+        android:title="NFT"
+        app:cnb_iconColor="@color/favourites"/>
+    <item
+        android:id="@+id/chart"
+        android:icon="@drawable/graph"
+        android:title="Chart"
+        app:cnb_iconColor="@color/notification" />
+    <item
+        android:id="@+id/caesar"
+        android:icon="@drawable/token"
+        android:title="Caezar"
+        app:cnb_iconColor="@color/token" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="Profile"
+        app:cnb_iconColor="@color/profile" />
+</menu>
